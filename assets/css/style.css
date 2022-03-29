@@ -564,6 +564,12 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.member{
+ margin-left: 50px;
+ margin-right: 50px;
+ /* margin-top: 20px; */
+}
+
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
@@ -629,6 +635,7 @@ section {
 .team .member:hover .social {
   opacity: 1;
 }
+
 
 
 
